@@ -24,7 +24,7 @@ def side_bar():
         selected_page = option_menu(
             menu_title="Main Menu", 
             # options=["Main_Home"],
-            options=["Main_Home", "Photo_Gallery"],
+            options=["Main_Home23232", "Photo_Gallery"],
             # options=["Main_Home", "Photo_Gallery", "Travel_Attractions"],
             icons=['bi bi-house', 'bi bi-images', 'bi bi-airplane-engines'],
             menu_icon="cast", 
